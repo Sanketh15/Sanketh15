@@ -15,7 +15,7 @@ Hello! I'm a passionate master's student in Computer Applications, currently div
 
 - **[PyPDF-Viewer-Merger](https://github.com/Sanketh15/PyPDF-Viewer-Merger)**: A Python application that allows users to view and merge multiple PDF files. It offers a user-friendly interface to combine documents, making it ideal for managing various PDFs.
 
-- **[Attendance Management System](https://github.com/Sanketh15/Attendance-Management-System)**: A web-based system to manage and track attendance records for students and staff. It features role-based access, allowing staff to update attendance records and students to view their schedules.
+- **[Attendance Management System](https://github.com/Sanketh15/Attendence-Management-System)**: A web-based system to manage and track attendance records for students and staff. It features role-based access, allowing staff to update attendance records and students to view their schedules.
 
 Feel free to explore these projects on my GitHub!
 
