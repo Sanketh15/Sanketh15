@@ -8,7 +8,7 @@ Hello! I'm a passionate master's student in Computer Applications, currently div
 
 - 🎓 Pursuing a Master's Degree in Computer Applications at St Joseph Engineering College (2024-2025).
 - 💻 Skilled in C Programming, Java, PHP, MySQL, HTML, and CSS ,Golang.
-- 🌱 Continuously learning through hands-on projects like an Event Management System and an Attendance Management System.
+- 🌱  Continuously expanding my skills through hands-on full-stack projects like the Insurance Management System, Event Management System, and Attendance Management System.
 - 🤝 Open to contributing to open-source projects and engaging with the developer community.
 
 ## Projects
