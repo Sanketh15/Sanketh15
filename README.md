@@ -17,8 +17,7 @@ Hello! I'm a passionate master's student in Computer Applications, currently div
 
 - **[Attendance Management System](https://github.com/Sanketh15/Attendence-Management-System)**: A web-based system to manage and track attendance records for students and staff. It features role-based access, allowing staff to update attendance records and students to view their schedules.
   
-- **[Insurance Management System](https://github.com/Sanketh15/Insurance-Management-System)**:  
-  A full-stack web application built using **Golang**, **GORM**, and **PostgreSQL**. It allows employees to submit insurance claims and administrators to review, approve, and manage them via a secure, role-based dashboard. Includes real-time status tracking and JWT-based authentication.
+- **[Insurance Management System](https://github.com/Sanketh15/Insurance-Management-System)**: A full-stack web application built using **Golang**, **GORM**, and **PostgreSQL**. It allows employees to submit insurance claims and administrators to review, approve, and manage them via a secure, role-based dashboard. Includes real-time status tracking and JWT-based authentication.
   
 Feel free to explore these projects on my GitHub!
 
